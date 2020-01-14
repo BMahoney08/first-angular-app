@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-<p>Server with ID {{ serverId }} is {{ getServerStatus() }} </p>
-=======
-<h4>Servers Component Ewit</h4>
->>>>>>> d31a25a56dd75053de2d827ea78dd3342ce1e4b4
